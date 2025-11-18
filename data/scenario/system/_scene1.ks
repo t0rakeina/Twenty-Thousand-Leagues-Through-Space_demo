@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/黒背景.png"  ]
+[preload  storage="./data/bgimage/背景_暗転.png"  ]
+[preload  storage="./data/fgimage/chara/1/tact_4_Relax.gif"  ]
+[preload  storage="./data/fgimage/chara/1/tact_plane_stop.png"  ]
+[preload  storage="./data/fgimage/chara/1/tact_5_greeting.gif"  ]
+[preload  storage="./data/fgimage/chara/1/tact_2_fix.gif"  ]
+[preload  storage="./data/fgimage/chara/1/tact_1_miniMove.gif"  ]
+[return]
