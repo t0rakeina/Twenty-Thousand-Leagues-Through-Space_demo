@@ -79,7 +79,7 @@ TYRANO.kag.ftag.startTag("jump", { target: "*noidea_shy" });
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_memory_happy"  graphic="future_1.png"  width="993"  height="55"  x="143"  y="239"  name="img_20"  ]
 [button  storage="scene3.ks"  target="*past_memory_happy"  graphic="past_1.png"  width="993"  height="55"  x="143"  y="338"  name="img_21"  ]
 [button  storage="scene3.ks"  target="*answer_step1"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_22"  ]
@@ -258,7 +258,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_memory_silent"  graphic="future_2.png"  width="993"  height="55"  x="143"  y="239"  name="img_60"  ]
 [button  storage="scene3.ks"  target="*past_memory_silent"  graphic="past_2.png"  width="993"  height="55"  x="143"  y="338"  name="img_61"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_62"  ]
@@ -334,7 +334,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_memory_struggle"  graphic="future_3.png"  width="933"  height="55"  x="143"  y="239"  name="img_93"  ]
 [button  storage="scene3.ks"  target="*past_memory_struggle"  graphic="past_3.png"  width="933"  height="55"  x="143"  y="338"  name="img_94"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_95"  ]
@@ -411,7 +411,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_memory_shy"  graphic="future_4.png"  width="993"  height="55"  x="143"  y="239"  name="img_126"  ]
 [button  storage="scene3.ks"  target="*past_memory_shy"  graphic="past_4.png"  width="993"  height="55"  x="143"  y="338"  name="img_127"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_128"  ]
@@ -487,7 +487,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_analyze_happy"  graphic="future_5.png"  width="993"  height="55"  x="143"  y="239"  name="img_159"  ]
 [button  storage="scene3.ks"  target="*past_analyze_happy"  graphic="past_5.png"  width="993"  height="55"  x="143"  y="338"  name="img_160"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_161"  ]
@@ -561,7 +561,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_analyze_silent"  graphic="future_6.png"  width="993"  height="55"  x="143"  y="239"  name="img_192"  ]
 [button  storage="scene3.ks"  target="*past_analyze_silent"  graphic="past_6.png"  width="993"  height="55"  x="143"  y="338"  name="img_193"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_194"  ]
@@ -636,7 +636,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_analyze_struggle"  graphic="future_7.png"  width="993"  height="55"  x="143"  y="239"  name="img_225"  ]
 [button  storage="scene3.ks"  target="*past_analyze_struggle"  graphic="past_7.png"  width="993"  height="55"  x="143"  y="338"  name="img_226"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_227"  ]
@@ -711,7 +711,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage=""  target="*future_analyze_shy"  graphic="future_8.png"  width="993"  height="55"  x="143"  y="239"  name="img_259"  ]
 [button  storage=""  target="*past_analyze_shy"  graphic="past_8.png"  width="993"  height="55"  x="143"  y="338"  name="img_260"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_261"  ]
@@ -786,7 +786,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_yorisoi_happy"  graphic="future_9.png"  width="993"  height="55"  x="143"  y="239"  name="img_292"  ]
 [button  storage="scene3.ks"  target="*past_yorisoi_happy"  graphic="past_9.png"  width="993"  height="55"  x="143"  y="338"  name="img_293"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_294"  ]
@@ -862,7 +862,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_yorisoi_silent"  graphic="future_10.png"  width="993"  height="55"  x="143"  y="239"  name="img_325"  ]
 [button  storage="scene3.ks"  target="*past_yorisoi_silent"  graphic="past_10.png"  width="993"  height="55"  x="143"  y="338"  name="img_326"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_327"  ]
@@ -938,7 +938,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_yorisoi_struggle"  graphic="future_11.png"  width="993"  height="55"  x="143"  y="239"  name="img_358"  ]
 [button  storage="scene3.ks"  target="*past_yorisoi_struggle"  graphic="past_11.png"  width="993"  height="55"  x="143"  y="338"  name="img_359"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_360"  ]
@@ -1013,7 +1013,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_yorisoi_shy"  graphic="future_12.png"  width="993"  height="55"  x="143"  y="239"  name="img_391"  ]
 [button  storage="scene3.ks"  target="*past_yorisoi_shy"  graphic="past_12.png"  width="993"  height="55"  x="143"  y="338"  name="img_392"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_393"  ]
@@ -1088,7 +1088,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_noidea_happy"  graphic="future_13.png"  width="993"  height="55"  x="143"  y="239"  name="img_424"  ]
 [button  storage="scene3.ks"  target="*past_noidea_happy"  graphic="past_13.png"  width="993"  height="55"  x="143"  y="338"  name="img_425"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_426"  ]
@@ -1164,7 +1164,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_noidea_silent"  graphic="future_14.png"  width="993"  height="55"  x="143"  y="239"  name="img_457"  ]
 [button  storage="scene3.ks"  target="*past_noidea_silent"  graphic="past_14.png"  width="993"  height="55"  x="143"  y="338"  name="img_458"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_459"  ]
@@ -1238,7 +1238,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_noidea_struggle"  graphic="future_15.png"  width="993"  height="55"  x="143"  y="239"  name="img_490"  ]
 [button  storage="scene3.ks"  target="*past_noidea_struggle"  graphic="past_15.png"  width="993"  height="55"  x="143"  y="338"  name="img_491"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_492"  ]
@@ -1318,7 +1318,7 @@ jump(CANCEL_TARGET);
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene3.ks"  target="*future_noidea_shy"  graphic="future_16.png"  width="993"  height="55"  x="143"  y="239"  name="img_469"  ]
 [button  storage="scene3.ks"  target="*past_noidea_shy"  graphic="past_16.png"  width="993"  height="55"  x="143"  y="338"  name="img_470"  ]
 [button  storage="scene3.ks"  target="*free_text"  graphic="free_all.png"  width="993"  height="55"  x="143"  y="448"  name="img_471"  ]
