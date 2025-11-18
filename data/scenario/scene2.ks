@@ -31,7 +31,7 @@
 
 [tb_image_show  time="1000"  storage="default/挨拶.png"  width="191"  height="38"  x="296"  y="295"  _clickable_img=""  name="img_15"  ]
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [edit  left="257"  top="330"  width="571"  height="55"  size="25"  maxchars="200"  reflect="false"  name="f.greeting"  ]
 [button  storage="scene2.ks"  target="*input_greeting"  graphic="決定.png"  width="108"  height="55"  name="img_19"  x="874"  y="332"  ]
 [s  ]
@@ -114,7 +114,7 @@
 お便り​ありがとう​ござい​ます。[p]
 [_tb_end_text]
 
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [chara_mod  name="tact"  time="100"  cross="true"  storage="chara/1/tact_plane_stop.png"  ]
 [tb_start_tyrano_code]
 #第三衛星の​昼寝
@@ -188,7 +188,7 @@
 
 [tb_image_show  time="1000"  storage="default/方向性.png"  width="170"  height="40"  x="303"  y="289"  _clickable_img=""  name="img_78"  ]
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*memory_select"  graphic="1_Memory.png"  width="358"  height="55"  x="459"  y="185"  name="img_77"  ]
 [button  storage="scene2.ks"  target="*analyze_select"  graphic="1_bunseki.png"  width="358"  height="55"  x="460"  y="284"  name="img_78"  ]
 [button  storage="scene2.ks"  target="*yorisoi_select"  graphic="1_yorisoi.png"  width="358"  height="55"  x="459"  y="392"  name="img_79"  ]
@@ -214,7 +214,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_memory"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_90"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_91"  ]
 [s  ]
@@ -242,7 +242,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_analyze"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_106"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_107"  ]
 [s  ]
@@ -268,7 +268,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_yorisoi"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_122"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_123"  ]
 [s  ]
@@ -297,7 +297,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_noidea"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_139"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_140"  ]
 [s  ]
@@ -322,7 +322,7 @@
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/トーン.png"  width="198"  height="40"  x="292"  y="291"  _clickable_img=""  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [tb_hide_message_window  ]
 [button  storage="scene2.ks"  target="*happy_select"  graphic="2_akaruku.png"  width="358"  height="55"  x="460"  y="175"  name="img_109"  ]
 [button  storage="scene2.ks"  target="*silent_select"  graphic="2_shizukani.png"  width="358"  height="55"  x="460"  y="274"  name="img_110"  ]
@@ -344,7 +344,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_happy"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_93"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_94"  ]
 [s  ]
@@ -367,7 +367,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_silent"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_93"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_94"  ]
 [s  ]
@@ -390,7 +390,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_struggle"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_93"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_94"  ]
 [s  ]
@@ -414,7 +414,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65%.png"  ]
+[layermode  mode="multiply"  color="0xffffff"  time="1000"  wait="true"  graphic="黒背景65p.png"  ]
 [button  storage="scene2.ks"  target="*substitute_shy"  graphic="checking_ok.png"  width="233"  height="55"  x="523"  y="405"  name="img_93"  ]
 [button  storage="scene2.ks"  target="*answer_step1"  graphic="rethinking.png"  width="233"  height="55"  x="523"  y="260"  name="img_94"  ]
 [s  ]
