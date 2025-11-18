@@ -1483,7 +1483,7 @@ v.sf._has_next = (v.sf._free_idx < arr.length);
 [tb_hide_message_window  ]
 [chara_hide  name="tact"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="cosmo.png"  ]
-[tb_image_show  time="1000"  storage="default/名称未設定のアートワーク.gif"  width="1280"  height="720"  name="img_673"  ]
+[tb_image_show  time="1000"  storage="default/star_trim.gif"  width="143"  height="176"  x="938"  y="147"  name="img_673"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #タクト
