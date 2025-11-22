@@ -89,6 +89,22 @@ window.onload = function() { setTimeout(doScroll, 100); }
 
 </script>  
 
+<style>
+  #start_hint {
+    position: fixed;
+    z-index: 9999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0 0 4px rgba(0,0,0,0.7);
+    pointer-events: none; /* この要素自体はクリックを邪魔しない */
+  }
+</style>
+
 </head>
 
 <body onselectstart="return false" onContextmenu="return false" ontouchmove="event.preventDefault()" >
@@ -99,8 +115,10 @@ window.onload = function() { setTimeout(doScroll, 100); }
 
 </div> <!-- end vchat_base -->
 
-
-
+<div id="start_hint">
+  Click or tap anywhere on the screen to start the game.<br>
+  画面のどこかをクリック（タップ）するとゲームが始まります。
+</div>
 
 <!--  First シナリオファイルに外部ファイルを利用したい場合は、こちらにシナリオファイルのURLを指定できます-->
 <!--
@@ -127,6 +145,23 @@ window.onload = function() { setTimeout(doScroll, 100); }
   <button data-remodal-action="confirm" class="remodal-confirm">OK</button>
 </div>
 
+<script>
+  (function () {
+    var removed = false;
+    function hideHint() {
+      if (removed) return;
+      removed = true;
+      var hint = document.getElementById("start_hint");
+      if (hint) {
+        hint.style.display = "none";
+      }
+    }
+    // ページ内のどこかがクリック or タップされたら、一度だけ実行
+    document.addEventListener("click", hideHint, { once: true });
+    document.addEventListener("touchstart", hideHint, { once: true });
+  })();
+</script>
+</body>
 
 </body>
 </html>
